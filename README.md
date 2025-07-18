@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepansh Mishra</h1>
+<img src="DEEPANSH MISHRA.png"/>
 <h3 align="center">A passionate frontend developer from India. Motivated and detail oriented Computer Science student with a strong academic foundation and hands on experience through academic projects. Eager to apply technical knowledge and problem solving skills in a dynamic professional environment. Known for being a quick learner, adaptable, and committed to continuous growth and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshmishra" /> </p>
