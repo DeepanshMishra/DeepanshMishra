@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deepanshmishra226@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qUDfIUZLghusaajHo7D2YrBLQicGrGyy/view?usp=sharing](https://drive.google.com/file/d/1qUDfIUZLghusaajHo7D2YrBLQicGrGyy/view?usp=sharing)
+-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)]([https://your-resume-link.com](https://drive.google.com/file/d/1qUDfIUZLghusaajHo7D2YrBLQicGrGyy/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
