@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshmishra" alt="deepanshmishra" /></a> </p>
 
+ -🏫 I’m currently pursuing B-Tech in CS form **PSIT Kanpur**
+
 - 🔭 I’m currently working on **AI based Mock Interview Software**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -14,7 +16,7 @@
 
 - 📫 How to reach me **deepanshmishra226@gmail.com**
 
--[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/12KWAIG92Pa_dL9QwZnkH3uKGtFTC3fUg/view?usp=sharing)
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/12KWAIG92Pa_dL9QwZnkH3uKGtFTC3fUg/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
